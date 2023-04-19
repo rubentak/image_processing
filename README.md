@@ -1,13 +1,15 @@
-# image_processing
+# Image processing 📸
 
 This repository contains a collection of different topics related to image processing.
 
-## Notebooks
-- array manipulation
-- basic image processing
-- use case: calculating bacteria growth with the help of image processing
+First a genreral understanding of arrays in Numopy should be established. After this, we take a look at basic image manipuilation options. Lastly, we take a look at an usecase of image manipulation: bacteria growth (What really?? Yes really)
 
-## requirements
+## Notebooks 📙
+- Array manipulation [ ... ]
+- Basic image processing 🐶
+- Use case: calculating bacteria growth with the help of image processing 🦠
+
+## Requirements ⚙️
 - python 3.6
 - jupyter notebook
 - numpy
