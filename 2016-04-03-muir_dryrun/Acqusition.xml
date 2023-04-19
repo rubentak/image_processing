@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="org">
+      <map/>
+      <node name="micromanager">
+        <map/>
+        <node name="AcquistionSettings">
+          <map>
+            <entry key="enableMultiFrame" value="true"/>
+            <entry key="enableMultiChannels" value="true"/>
+            <entry key="acqNumframes" value="50"/>
+            <entry key="acqInterval" value="20000.0"/>
+            <entry key="acqTimeInit" value="1"/>
+            <entry key="acqZbottom" value="0.0"/>
+            <entry key="acqZtop" value="0.0"/>
+            <entry key="acqZstep" value="1.0"/>
+            <entry key="enableSliceSettings" value="false"/>
+            <entry key="enableMultiPosition" value="true"/>
+            <entry key="acqZValues" value="0"/>
+            <entry key="acqSaveFiles" value="true"/>
+            <entry key="acqDirName" value="20160330"/>
+            <entry key="acqRootName" value="C:\Users\bi1x\Desktop\Bi1x_2016\ecoli_growth_dry_run\20160330"/>
+            <entry key="sliceMode" value="1"/>
+            <entry key="acqDisplayMode" value="2"/>
+            <entry key="positionMode" value="1"/>
+            <entry key="autofocus_enabled" value="true"/>
+            <entry key="autofocusSkipInterval" value="0"/>
+            <entry key="acqChannelsKeepShutterOpen" value="false"/>
+            <entry key="acqStackKeepShutterOpen" value="false"/>
+            <entry key="acqChannelGroup" value="Channel"/>
+            <entry key="acqNumchannels" value="0"/>
+            <entry key="column_width0" value="69"/>
+            <entry key="column_order0" value="0"/>
+            <entry key="column_width1" value="69"/>
+            <entry key="column_order1" value="1"/>
+            <entry key="column_width2" value="69"/>
+            <entry key="column_order2" value="2"/>
+            <entry key="column_width3" value="68"/>
+            <entry key="column_order3" value="3"/>
+            <entry key="column_width4" value="69"/>
+            <entry key="column_order4" value="4"/>
+            <entry key="column_width5" value="68"/>
+            <entry key="column_order5" value="5"/>
+          </map>
+        </node>
+      </node>
+    </node>
+  </root>
+</preferences>
