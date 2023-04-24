@@ -2,7 +2,7 @@
 
 This repository contains a collection of different topics related to image processing.
 
-First a genreral understanding of arrays in Numopy should be established. After this, we take a look at basic image manipuilation options. Lastly, we take a look at an usecase of image manipulation: bacteria growth (What really?? Yes really)
+First a genreral understanding of arrays in Numpy should be established. After this, we take a look at basic image manipuilation options. Lastly, we take a look at an usecase of image manipulation: bacteria growth (What really?? Yes really)
 
 ## Notebooks 📙
 - Array manipulation [ ... ]
